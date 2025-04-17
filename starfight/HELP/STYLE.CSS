@@ -1,0 +1,42 @@
+
+body {
+ font-family: Verdana;
+ color: #80FF00;
+ BACKGROUND-IMAGE: url(space.gif);
+
+  }
+
+
+h1 {
+ font-family: Arial;
+ font-size: xx-large;
+ font-weight: bold;
+ text-decoration: underline;
+ text-align: center;
+ color: #FF0000;
+}
+
+a:link {
+ text-decoration: underline;
+ color: #0060FF;
+}
+
+a:visited {
+ text-decoration: underline;
+ color: #FF00FF;
+}
+
+h2 {
+ font-family: Times New Roman;
+ font-size: x-large;
+ font-style: italic;
+ text-decoration: underline;
+ color: #80FFFF;
+}
+
+h3 {
+ font-family: Verdana;
+ font-size: large;
+ font-weight: bold;
+ color: #008000;
+}

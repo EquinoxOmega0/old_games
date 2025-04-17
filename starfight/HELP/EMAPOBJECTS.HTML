@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>English - Mapobjects</title>
+<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#FF0000" alink="#FF0000" vlink="#FF0000">
+<h1>mapobjects</h1><br>
+<br>
+<br>
+<br>
+To make the game more interesting Starfight has lots of mapobjects, which you can add or disable like you want to.
+<br>
+<br>
+<br><div align="center">
+<table  border=2 bordercolor=#00A000 width=70%>
+<tr>
+ <td> <b>object</b></td>
+ <td> <b>features</b></td>
+ <td> <b>effects</b></td>
+</tr>
+<tr>
+ <td>sun </td>
+ <td>heavy gravitationsfield, high friction, set heavy damage to ship</td>
+ <td>supernova </td>
+</tr>
+<tr>
+ <td>astroids </td>
+ <td>fixe or moving rocks, damage at collision </td>
+ <td>astroidshower </td>
+</tr>
+<tr>
+ <td>anomalie </td>
+ <td>changing gravitationfield, light and medium damage at collision </td>
+ <td>none </td>
+</tr>
+<tr>
+ <td>black hole </td>
+ <td>invisible(only backgroundstars are moving), gravitationfield </td>
+ <td>none </td>
+</tr>
+<tr>
+ <td>nebula </td>
+ <td>ships become invisble </td>
+ <td>nebula explosion(cannot be disabled by "events off"!)</td>
+</tr>
+<tr>
+ <td>wormhole </td>
+ <td>gravitation by opening, only visible if ships are close to it, changing position, moves ships to other end </td>
+ <td>none </td>
+</tr>
+</table></div><br>
+<br>
+<br>
+<h2>events</h2><br>
+<br>
+<h3>computerenemy</h3>
+Enemy ships with a lot af spezials and torpedos appears. It always attacts the nearest ship and hunts it. Probality per calculation of the programm 1:1000.
+<br>
+<br>
+<h3>supernova</h3>
+The sun will explode if it is hitten by certain weapons. This explosion grows slowly until it has reached the whole playing field. Everything will be destroyed! Release: subspace torpedo, powerdown torpedo or wave. It can also happen without any reason: probality per calculation of the programm 1:100000.                                                                  <br>
+<br>
+<h3>astroidshower</h3>
+It can happen that moving astroids appear in the playing field. They are a little bit larger than normal astroids and they are affected by gravitation. These astroids can be destroyed by sun or anomalie and they will be reflected by other astroids. Probality per calculation of the programm 1:1000.
+<br>
+<br>
+<h3>nebulaexplosion</h3>
+A nebula consists of lots of gas and dustparticles which can be fired with enough power. This event starts if the nebula will be reached by the supernove or if a homing missel explodes in the nebula or if a subspace globe hits the nebula. While the nebula is burning all ships will be damaged if the fly into it. The explosion extingulish itself.
+   <br>
+<br>
+</body>
+</html>

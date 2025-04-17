@@ -1,0 +1,165 @@
+How to play
+-----------
+
+First chose a ship for Player1 with the left mouse
+button and for Player2 with the right one. Then
+create or load a mpa for game. If you forget this
+the computer will take a standard map. Futhermore
+you can make some settings with the menu below the
+mapeditor. If you are alone you'll be able to play
+against the computer. You start the game by
+pressing the big button with the caption 'START
+GAME'. The aim is to destroy the other player. You
+can either fire differnt weapons on your enemy or
+get him into a mapobject. After you has destroyed
+the other player, you get back to the main menu.
+Your settings will be saved until you quit the 
+game. Score is also counted on the right side of
+the menu.
+
+
+Display
+-------
+
+Every weapon needs a time to reload. The reloading
+of torpedos takes longer than of lasers. The green
+points in your display are symbolising loaden 
+torpedos. Light green for front luncher and dark
+green for the backside one. The loading is
+indicated by the red point becoming more and more
+redder. Ready loaden Lasers are blue points. 
+This beams are able to be fired in all directions.
+The red line is your hull structure. It will 
+decrease if a weapon hits you or if you are 
+getting to close to the sun or an other mapobject.
+The yellow line next beside it, shows you your
+spezial weapon power. Every use of your spezial 
+system lowers your power, but it reloads itself.
+The number next to your power indicators is your
+score. It shows you how often you've won the 
+game. The short text nearby your score is your
+current fire mode. "auto" means that you are
+targenting automatically to the other player.
+"man." stands for manuel. You are only fireing
+straight ahead with this mode. With "alt." 
+you are looking for alternative targets. You can 
+use this mode to intercept enemy spezial weapons
+or the third computer enemy. If there is no 
+alternative target, you are firing on the other
+player.
+
+
+Map editor
+----------
+
+You can create your own maps for game. The map 
+editor will help you to do this. For making a new
+map you have to click on the button "NEW MAP". 
+After this you are able to set the card objects.
+Click on the correct button and then on the map 
+to put it. After you've put all map objects, you
+should save the map by pressing "SAVE GAME". For
+using the map for game you must click on the 
+button "TAKE THIS MAP FOR GAME". You are also able
+to load maps. 
+
+
+
+Key Help
+--------
+
+Player 1:
+W: ahead
+S: break
+A: left
+D: right
+Q: torpedos
+E: lasers
+C: spezial on
+X: spezial off
+F: change firemode
+
+Player 2:
+CR up: ahead
+CR down: break
+CR left: left
+CR right: right
+Shift: torpedos
+Crtl: lasers
+Num 0: spezial on
+Num 1: spezial off
+Num 2: change firemode
+
+
+Ship Help
+---------
+
+Ship 1:
+6 topedos ahead
+8 lasers
+Shuttle
+
+Ship 2:
+8 torpedos ahead
+2 torpedos backwards
+9 lasers
+Tractorbeam
+
+Ship 3:
+7 torpedos ahead
+2 torpedos backwards
+10 lasers
+Interphasis field
+
+Ship 4:
+6 torpedos ahead
+2 torpedos backwards
+9 lasers
+Homing missel
+
+Ship 5:
+6 torpedos ahead
+4 torpedos backwards
+10 lasers
+Highspeed engine
+
+Ship 6:
+4 torpedos ahead
+3 torpedos backwards
+10 lasers
+Powerdown torpedo
+
+Ship 7:
+8 torpedos ahead
+2 torpedos backwards
+8 lasers
+Wormhole creator
+
+Ship 8:
+5 torpedos ahead
+10 lasers
+Wave
+
+Ship 9:
+7 torpedos ahead
+2 torpedos backwards
+9 lasers
+Cloaking device
+
+Ship 10:
+4 torpedos ahead
+6 lasers
+Subspace torpedo
+
+Ship 11:
+8 torpedos ahead
+2 torpedos backwards
+10 lasers
+Shield
+
+Ship 12:
+5 torpedos ahead
+3 torpedos backwards
+10 lasers
+miens
+

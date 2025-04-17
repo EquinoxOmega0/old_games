@@ -1,0 +1,199 @@
+hallo ,ich hab  meine vorschläge zsamgeschrieben!
+es ist eine menge, und es wäre schon toll wenn du nur ein paar sachen
+davon
+realisieren kannst.
+leider sind viele sachen sicher nur lustig wenn sie nicht zu stark oder
+zu
+leicht wirken und die richtige abstimmung kann man nur finden wenn mans
+länger getestet hat...naja du wirst es schon irgendwie packen :-)
+
+lg matthias
+
+
+
+PROBLEME ZU BEHEBEN:
+
+
+Punkteanzahl größer
+
+startpositionspunkte größer (+ Pfeil mit Richtung?)
+
+Startradius manchmal nicht groß genug
+
+windschattenbeschleunigung sollte nur für hinteren wirken, sodass er
+überholen kann!
+
+vielleicht besser wenn kontr.beschl. nur solange man knopf drückt, ohne
+ein/ausschalten
+
+siegerehrung
+
+sichtbar, wievielte runde grade ist bzw. statt 10 runden eine fixe
+pkteanzahl beendet spiel wie bei original (2 player = 10 pkte, 3=20,
+4=30,...)
+
+Punkte sind manchmal nicht aktuell, manchmal schon
+
+von Spieler der nicht mitspielt sind trotzdem noch Punkte von vorigem
+Spiel
+sichtbar
+
+spieler die nicht mitspielen überhaupt ausblenden
+
+vielleicht wärs mal besser wenn man sich mit schüssen nicht umbringen
+könnte, sondern nur den weg freischießen kann. das ganze spiel dreht
+sich
+eigentlich nur mehr ums abfetzen, das prinzip des schisshases geht
+verloren
+
+geschwindigkeitseinstellung funktioniert überhaupt nicht, bringt ihn
+zum
+abstürzen
+countdown, bevors losgeht, ändert sich aus, dauert dann manchmal viel
+zu
+lange
+
+
+
+VORSCHLÄGE:
+
+
+
+playoff:
+haben 2 oder mehr player am ende selbe pktzahl, gibt es ein rennen,wie
+ein
+autorennen
+der kopf der würmer bleibt immer an selber stelle und der bildschirm
+und die
+bahn bewegt sich runter, jeder wurm ist auf selber höhe, hat genau
+selbe
+bahn, man  kann nicht schießen/beschl/springe
+die kurvige schlangenförmige bahn wird immer enger, immer wieder
+hindernisse
+mit immer engeren durchgängen
+wer als letztes überlebt ist champignon
+
+labyrinthe und sowas, daran arbeitest du ja schon
+
+
+
+
+
+verschiedene auswählbare level mit verschiedenen herausforderungen,
+hier
+einige anregungen:
+
+
+
+gute power-ups zum aufsammeln (ein paar sekunden wirksam); tauchen von
+zeit
+zu zeit auf:
+---wahrscheinlich wäre alles auf einmal zu verwirrend, deshalb vor
+einem
+level erklärung welches power up es hier gibt
+
+
+unverwundbar: man kann durch andere durchfahren, umbringen, blinken
+solange
+unverwundbar, vielleicht auch durch bildschirm fahren können (fährt man
+rechts raus, kommt man links rein)
+
+superschuss: dauerschießen, schnell hintereinander, wenn man
+schusstaste
+gedrückt hält
+
+supernovaschuss: dutzende schüsse entfernen sich gleichzeitig vom kopf
+des
+players in alle richtungen wenn er nun schießt
+
+torpedoschuss: wie ein sehr langsamer schuss der auch durchschlag hat,
+aber
+wenn er auf eine wand trifft breitet sich langsam eine druckwelle aus,
+die
+den halben bildschirm auslöscht
+
+brezelpower: kurvenradius wird kleiner
+
+
+
+schlechte powerups (ziemlich groß, damit sie auch mal von jemandem
+genommen
+werden, oder sie schauen aus wie gute):
+
+kurve wird dicker
+
+man wird extrem langsam und kann nicht mehr schießen
+
+
+
+
+
+
+
+
+extra LEVELS:
+
+
+Snake
+wie bei snake, der schwanz geht mit, man ist nur kurz, es wird
+automatisch
+immer schneller und würmer länger
+oder/und umgekehrt, am anfang ganz lang und langsam, dann immer
+schneller
+und kürzer, wies in der praxis besser is
+
+Wind
+es geht ein Wind, d.h., in eine richtung schneller, andre langsamere
+geschwindigkeit
+
+schwarzes loch
+in der mitte ist ein kleiner kreis, der leicht anziehend ist, je näher,
+desto mehr, lenkt auch schüsse ab
+also kann man zB in bestimmtem abstand ohne lenken einen kreis drum
+herum
+fahren, naja, dann fährt man sich in den schwanz
+fährt man rein stirbt man
+
+BillardKugel
+ein kreis rollt herum, ?ca. selbe geschw. wie würmer,
+prallt nach den stoßgesetzen von der wand ab,
+löscht den bildschirm wieder wo er hinkommt und bringt wurm um wenn er
+kopf
+berührt
+vielleicht besser 2 kreise, sonst fahren alle im schatten des kreises
+nach
+(oder rollt über wurmbahnen "drüber", tötet aber wurm wenn er kopf
+berührt)
+
+
+Minenfeld
+es bilden sich kreise, zuerst grün, werden nach einigen sekunden immer
+rötlicher, dann darf man sich nicht auf ihnen aufhalten (sie
+"explodieren")
+je mehr zeit vergeht, desto viel mehr minen entstehen überall auf dem
+bidlschirm
+
+IndianaJones
+die wände oben und unten rücken langsam immer näher und zerquetschen
+alles
+
+Hürdenlauf
+das hat jetzt eigentlich nicht viel mit adk zu tun und klingt ur
+dämlich,
+aber ich kenn ein ähnliches spiel das ist ur lustig
+wie bei playoff, ein rennen, mit einer bahn die sich bewegt, die ist
+aber
+grade, und man kann nicht mal lenken, alle fahren parallel, dann kommen
+immer wieder hindernisse, die man je nachdem welches wegschießen oder
+drüberspringen muss, man braucht nur 2 knöpfe, fährt man wo an (also
+drückt
+man zu früh/spät, oder falschen knopf), ist man nicht tot, sondern
+fällt nur
+ein bisschen zurück, man kann vielleicht ca. 5 mal wo anfahren bevor
+man aus
+den bildschirm kommt, fährt man aber länger nicht an holt man langsam
+wieder
+auf, bei jedem anfahren, sollte ein "klonk" geräusch begleitet mit
+einem
+"uff" oder "aua" zu hören sein, wenn sound möglich ist.
+alles wird immer schneller
